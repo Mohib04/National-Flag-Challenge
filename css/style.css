@@ -155,13 +155,53 @@ body {
 /* Head4---------*/
 
 .head4 {
-    background-color: #34495e;
+    background-color: #FEC901;
     width: 49%;
     height: 300px;
     overflow: hidden;
     margin-top: 5px;
 }
 
+.inerhead4 {
+    margin-top: 28px;
+}
+
+.inerhead4-one {
+    width: 10%;
+    height: 250px;
+    background: #3d3d3d;
+    margin-left: 15px;
+    float: left;
+}
+
+.inerhead4-tow {
+    width: 10%;
+    height: 250px;
+    background: #e41a1a;
+    overflow: hidden;
+    margin-right: 20px;
+    float: left;
+}
+
+.inerhead4-three {
+    width: 70%;
+    height: 250px;
+    margin-left: 20px;
+    background: #000000;
+    overflow: hidden;
+}
+
+.inerhead4-three img {
+    width: 100%;
+    height: 100%;
+}
+
 .head4:hover {
     cursor: pointer;
+}
+
+@media only screen and (max-width: 900px) {
+    body {
+        display: hidden;
+    }
 }
