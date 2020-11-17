@@ -169,7 +169,7 @@ body {
 .inerhead4-one {
     width: 10%;
     height: 250px;
-    background: #3d3d3d;
+    background: #08534E;
     margin-left: 15px;
     float: left;
 }
@@ -177,7 +177,7 @@ body {
 .inerhead4-tow {
     width: 10%;
     height: 250px;
-    background: #e41a1a;
+    background: #EB7605;
     overflow: hidden;
     margin-right: 20px;
     float: left;
@@ -187,7 +187,6 @@ body {
     width: 70%;
     height: 250px;
     margin-left: 20px;
-    background: #000000;
     overflow: hidden;
 }
 
